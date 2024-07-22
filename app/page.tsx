@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 
 export default function Page() {
   return (
-    <section className='mt-16 font-medium'>
+    <section className='mt-16 font-medium md:text-lg'>
       <h1 className="mb-4 md:text-5xl text-3xl font-bold tracking-tighter">
         my name is pawan
       </h1>
