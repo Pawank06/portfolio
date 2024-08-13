@@ -10,7 +10,7 @@ export default function Page() {
       </h1>
       
       <p className="mb-8 opacity-60 font-semibold">
-        co-founder <Link className='underline' href="https://www.viralxpost.xyz/">viralxpost</Link> + <Link className='underline' href="">fpg</Link></p>
+        co-founder <Link className='underline' href="https://www.viralxpost.xyz/">viralxpost</Link> + <Link className='underline' href="https://www.nexzsol.tech/">nexzsol</Link></p>
       <p className="mb-4">
         I am a 21 year old developer based in india.
       </p>
