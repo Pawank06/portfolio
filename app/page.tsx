@@ -29,7 +29,7 @@ export default function Page() {
       <Separator className='my-16'/>
       <ul className=' dark:text-zinc-700'>
       <li className='pb-4'>twitter <Link className='underline opacity-70' href="https://x.com/near0lx">@near0lx</Link></li>
-      <li className='pb-4'>github <Link className='underline opacity-70' href="https://github.com/Pawank06">@pawank06</Link></li>
+      <li className='pb-4'>github <Link className='underline opacity-70' href="https://github.com/Pawank06/">@pawank06</Link></li>
       <li className='pb-4'>Instagram <Link className='underline opacity-70' href="https://www.instagram.com/aka.pawan/">@aka.pawan</Link></li>
       <li className='pb-4 md:block hidden'>email <Link className='underline opacity-70' href="https://heypawanb@gmail.com">@heypawanb@gmail.com</Link></li>
       </ul>
